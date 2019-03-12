@@ -1,0 +1,1 @@
+ARG=`ruby -e "puts (-$50 .. $49).to_a.shuffle.join(' ')"` ; ./push_swap $ARG
