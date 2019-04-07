@@ -9,4 +9,4 @@ https://yadi.sk/d/tXteS4qJEVZrRQ
 https://yadi.sk/d/4lP5iRnrWQU9Iw
 
 # ft_printf
-https://disk.yandex.ru/client/disk/school21/check/ft_printf
+https://yadi.sk/d/l3Z3kEbZoNc6FQ
